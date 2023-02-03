@@ -11,6 +11,10 @@ pip install pandas
    ```console
    python3 main.py <amount>
    ```
+4. To change the csv file you are reading from provide the relative path to the csv file with the format provided below in line 26 of main.py. The format can be seen blow
+   ```console
+   ./data/same_time_transactions.csv
+   ``` 
    * transactions.csv: example data
    * empty.csv: data with no transactions within the file
    * large_transactions.csv: data that tests large transaction amounts and what happens when the spending amount is less than the transaction amount
