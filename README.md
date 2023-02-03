@@ -12,3 +12,4 @@ pip install pandas
    * empty.csv: data with no transactions within the file
    * large_transactions.csv: data that tests large transaction amounts and what happens when the spending amount is less than the transaction amount
    * same_time_transactions.csv: tests multiple transactions ocurring at once
+4. Documentation can be found within the python file as well.
