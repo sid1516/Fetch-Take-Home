@@ -11,7 +11,7 @@ pip install pandas
    ```console
    python3 main.py <amount>
    ```
-4. To change the csv file you are reading from provide the relative path to the csv file with the format provided below in line 26 of main.py. The format can be seen blow
+4. To change the csv file you are reading from provide the relative path to the csv file with the format provided below in line 26 of main.py. The format can be seen below, as well as information about the csv files.
    ```console
    ./data/same_time_transactions.csv
    ``` 
