@@ -8,6 +8,9 @@
 pip install pandas
 ```
 3. Run main.py with the csv file that you would like to use. Provide a command line argument for the amount that you would like to spend.
+   ```console
+python3 main.py <amount>
+```
    * transactions.csv: example data
    * empty.csv: data with no transactions within the file
    * large_transactions.csv: data that tests large transaction amounts and what happens when the spending amount is less than the transaction amount
