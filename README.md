@@ -13,7 +13,7 @@ pip install pandas
    ```
 4. To change the csv file you are reading, from provide the relative path to the csv file you want on line 26 of main.py. All csv files are located in the data folder. The format can be seen below, as well as information about the csv files.
    ```
-   pd.read_csv("./data/same_time_transactions.csv")
+   pd.read_csv("./data/transactions.csv")
    ``` 
    * transactions.csv: example data
    * empty.csv: data with no transactions within the file
