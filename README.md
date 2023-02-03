@@ -4,9 +4,9 @@
 
 1. Clone the repository onto your local machine.
 2. Ensure that you have installed pandas. This can be done with the command 
-```console
-pip install pandas
-```
+   ```console
+   pip install pandas
+   ```
 3. Run main.py with the csv file that you would like to use. Provide a command line argument for the amount that you would like to spend.
    ```console
    python3 main.py <amount>
